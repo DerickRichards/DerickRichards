@@ -14,16 +14,6 @@
 ### 🔭 Featured Project
 - 🚀 **[ZYSA](https://github.com/DerickRichards/Zysa)** – my current project exploring development skills  
 
----
-
-### 📌 Projects
-Here are some of the repositories I’m working on or exploring:  
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DerickRichards&repo=Zysa&theme=tokyonight)](https://github.com/DerickRichards/Zysa)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DerickRichards&repo=portfolio-website&theme=tokyonight)](https://github.com/DerickRichards/portfolio-website)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DerickRichards&repo=internship-logbook&theme=tokyonight)](https://github.com/DerickRichards/internship-logbook)
-
----
 
 ### 🛠️ Languages & Tools
 <p align="left"> 
